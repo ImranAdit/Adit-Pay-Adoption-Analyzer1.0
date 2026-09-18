@@ -1,0 +1,15 @@
+﻿{
+  "name": "adit-pay-terminal-dashboard",
+  "version": "1.0.0",
+  "description": "Adit Pay Terminal Adoption & Volume Monitoring Dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["adit-pay", "dashboard", "terminals", "adoption", "revenue", "analytics"],
+  "author": "Adit",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
